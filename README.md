@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Debjitvk18
+- 👋 Hi, I’m Debjit Ghosh
 - 👀 I’m interested in blockchain and software development
 - 🌱 I’m currently learning blockchain technology
 - 💞️ I’m looking to collaborate on blockchain project

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on blockchain project
 - 📫 How to reach me email:: debjitvk18@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Cricket fobic
+- ⚡ Fun fact: Always excited to learn new⚡
 
 <!---
 Debjitvk18/Debjitvk18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

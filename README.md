@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain and software development
 - 🌱 I’m currently learning blockchain technology
 - 💞️ I’m looking to collaborate on blockchain project
-- 📫 How to reach me email:: debjitvk18@gmail.com
+- 📫 How to reach me email:: debjtghosh2408@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Always excited to learn new⚡
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Debjit Ghosh
-- 👀 I’m interested in blockchain and software development
+- 👀 I’m interested in  software development
 - 🌱 I’m currently learning blockchain technology
 - 💞️ I’m looking to collaborate on blockchain project
 - 📫 How to reach me email:: debjtghosh2408@gmail.com

@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Profile<br>Motivated Computer Science undergraduate with hands-on experience in full-stack development. Strong foundation in Data<br>Structures, Algorithms, and Software Engineering. Proficient in building scalable, data-driven applications using React.js,<br>Express.js, and MongoDB. Proven problem-solver with hackathon and academic project experience, eager to contribute to<br>software and AI/ML teams.
 
 
